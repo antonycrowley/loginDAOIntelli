@@ -1,0 +1,12 @@
+loginDAO\daoImpl\StateDAOImpl.class
+loginDAO\dao\HibernateSession.class
+loginDAO\App.class
+loginDAO\dao\PersonDAO.class
+loginDAO\dao\StateDAO.class
+loginDAO\model\Person.class
+Main.class
+loginDAO\model\City.class
+loginDAO\model\State.class
+loginDAO\daoImpl\PersonDAOImpl.class
+loginDAO\daoImpl\CityDAOImpl.class
+loginDAO\dao\CityDAO.class
